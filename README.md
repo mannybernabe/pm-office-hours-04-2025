@@ -56,6 +56,6 @@ Stay secure while building with these helpful resources:
 
 ## 💎 Special Offer
 
-Ready to upgrade your Replit experience? Use code `MANNY` for a special offer when upgrading your account!
+Ready to upgrade your Replit experience? Use code `MANNYWEBINAR` for a special offer when upgrading your account!
 
 ---
