@@ -30,14 +30,6 @@ Welcome to **PM Office Hours**! In this session, we’ll walk through hands-on e
 3. **Familiarity with Basic Prompts**  
    Some useful prompt templates are included in the folders below to help you get started faster.
 
----
-
-## 📁 Folder Structure
-
-- `/customer-support-portal` – AI chatbot web app
-- `/landing-page-app` – Marketing page HTML/CSS/JS
-- `/pm-crm-dashboard` – CRM dashboard with feedback tracking
-- `/prompts` – Prompt templates for OpenAI Assistant
 
 ---
 
